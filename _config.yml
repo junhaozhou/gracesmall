@@ -1,0 +1,4 @@
+exclude: ["README.md", "gracesmall.sublime-project", "gracesmall.sublime-workspace", "test.html"]
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
